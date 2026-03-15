@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+    background-color: bisque;
+
+}
+
+ul,li{
+
+    text-align: left;
+    font-size:20px;
+}
+
+a{
+    font-size:25px;
+}
+
+h1{
+    font-size:40px;
+    font-style: oblique;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 600px;
+}
