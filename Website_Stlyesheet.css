@@ -1,4 +1,4 @@
-*{
+/* *{
     text-align: center;
     background-color: bisque;
 
@@ -12,17 +12,17 @@ ul,li{
 
 a{
     font-size:25px;
-}
+} */
 
-h1{
+/* #Tab{
     font-size:40px;
     font-style: oblique;
-}
+} */
 
-img {
+/* img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 400px;
   height: 600px;
-}
+} */
