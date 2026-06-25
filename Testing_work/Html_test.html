@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>The HTML5 Canvas</title>
+ </head>
+ <body>
+
+
+   <script>
+image     = new Image()
+image.src = 'Yorkdale.jpg'
+
+image.onload = function()
+{
+    canvas               = O('mycanvas')
+ context              = canvas.getContext('2d')
+ pattern           = context.createPattern(image, 'repeat')
+ context.fillStyle = pattern
+ context.fillRect(20, 20, 600, 200)
+}
+
+   </script>
+ </body>
+</html>
+
+
+
+
+
