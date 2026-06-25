@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toronto-airbnb.com/sitemap.xml
